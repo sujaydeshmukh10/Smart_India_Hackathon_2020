@@ -1,6 +1,6 @@
 # rizen_sih_2020
 
-A new Flutter application.
+A new Flutter application for SmartINDIAHacakethon.
 
 ## Getting Started
 
